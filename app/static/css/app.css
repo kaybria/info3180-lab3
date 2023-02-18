@@ -1,3 +1,36 @@
 body {
     padding-top: 5rem;
 }
+.formsection{
+    align-items: left;
+}
+
+.req{
+    color: red;
+    padding-bottom: 0px;
+}
+label{
+    float:left;
+    font-weight: bolder;
+    padding-right: 3px;
+    padding-bottom: 0px;
+}
+
+ 
+.formsection{
+    padding: 0 px;
+    margin-bottom: 30px;
+    line-height: 50%;
+}
+
+.sendbutton{
+    border: 2px;
+    box-shadow: 0 0 6px;
+    border-radius: 8px;
+    justify-content: center;
+    padding: 10px 30px;
+    background-color: rgb(0, 132, 255);
+    color: antiquewhite;
+    text-align: center;
+    margin: 4px 2px;
+}
